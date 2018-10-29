@@ -17,4 +17,4 @@ Also the outliers have been detected and removed for better performance. I have 
 
 Also I have normalized the data for better performance. 
 
-Lastly I have used many classification algos. from the scikit to predict the 'gender' from the voice sample.  For me SVM gives highest accuracy of about a little more than 99.1 %.
+Lastly I have used many classification algos. from the scikit to predict the 'gender' from the voice sample.  For me SVM gives highest accuracy of about a little more than 99%.
